@@ -1,0 +1,3 @@
+/home/john/git/github/panorama-to-cubemap-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/john/git/github/panorama-to-cubemap-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/john/git/github/panorama-to-cubemap-cpp/cmake-build-debug/CMakeFiles/panorama_to_cubemap_cpp.dir
